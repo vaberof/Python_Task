@@ -1,0 +1,2 @@
+"""Prints Python"""
+print("Python")
